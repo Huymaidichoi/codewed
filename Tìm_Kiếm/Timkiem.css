@@ -1,0 +1,27 @@
+
+.timkiem #timkiem1 #tk{ 
+    outline: none;
+    background: none;
+    padding: 16px 40px;
+    font-size: 10px;
+    padding-left: 500px;
+    background-color: #fff;
+    border-radius: 30px;
+}
+
+#timkiem1 #icontk{ 
+   background-color:#36c4d9;
+   border: 2px outset rgb(88, 84, 82);
+   cursor: pointer;
+   border-radius: 30px; 
+   font-size: 30px;
+  margin-bottom: 20px;
+}
+.timkiem{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color:#fff;
+
+
+}
